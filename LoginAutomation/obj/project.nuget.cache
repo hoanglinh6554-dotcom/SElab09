@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rhpzEhoowj0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hoang\\OneDrive\\Desktop\\SELab9_Complete_Source\\SELab9_Complete\\LoginAutomation\\LoginAutomation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hoang\\.nuget\\packages\\selenium.webdriver\\4.27.0\\selenium.webdriver.4.27.0.nupkg.sha512",
+    "C:\\Users\\hoang\\.nuget\\packages\\selenium.webdriver.chromedriver\\131.0.6778.8500\\selenium.webdriver.chromedriver.131.0.6778.8500.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\hoang\OneDrive\Desktop\SELab9_Complete_Source\SELab9_Complete\BasicMath\bin\Debug\net8.0\BasicMath.deps.json
+C:\Users\hoang\OneDrive\Desktop\SELab9_Complete_Source\SELab9_Complete\BasicMath\bin\Debug\net8.0\BasicMath.dll
+C:\Users\hoang\OneDrive\Desktop\SELab9_Complete_Source\SELab9_Complete\BasicMath\bin\Debug\net8.0\BasicMath.pdb
+C:\Users\hoang\OneDrive\Desktop\SELab9_Complete_Source\SELab9_Complete\BasicMath\obj\Debug\net8.0\BasicMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\OneDrive\Desktop\SELab9_Complete_Source\SELab9_Complete\BasicMath\obj\Debug\net8.0\BasicMath.AssemblyInfoInputs.cache
+C:\Users\hoang\OneDrive\Desktop\SELab9_Complete_Source\SELab9_Complete\BasicMath\obj\Debug\net8.0\BasicMath.AssemblyInfo.cs
+C:\Users\hoang\OneDrive\Desktop\SELab9_Complete_Source\SELab9_Complete\BasicMath\obj\Debug\net8.0\BasicMath.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Desktop\SELab9_Complete_Source\SELab9_Complete\BasicMath\obj\Debug\net8.0\BasicMath.dll
+C:\Users\hoang\OneDrive\Desktop\SELab9_Complete_Source\SELab9_Complete\BasicMath\obj\Debug\net8.0\refint\BasicMath.dll
+C:\Users\hoang\OneDrive\Desktop\SELab9_Complete_Source\SELab9_Complete\BasicMath\obj\Debug\net8.0\BasicMath.pdb
+C:\Users\hoang\OneDrive\Desktop\SELab9_Complete_Source\SELab9_Complete\BasicMath\obj\Debug\net8.0\ref\BasicMath.dll
+C:\Users\hoang\OneDrive\Desktop\SELab9_Complete_Source\SELab9_Complete\BasicMath\obj\Debug\net8.0\BasicMath.csproj.Up2Date

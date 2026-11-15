@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Login Test Page</title></head>
+<body>
+  <h1>Login</h1>
+  <form id="loginForm">
+    <label for="username">Username</label><input id="username" name="username" type="text" required>
+    <label for="password">Password</label><input id="password" name="password" type="password" required>
+    <button id="loginButton" type="submit">Login</button>
+  </form>
+  <p id="message" role="status"></p>
+  <script>
+    document.getElementById('loginForm').addEventListener('submit', function (event) {
+      event.preventDefault();
+      const user = document.getElementById('username').value;
+      const pass = document.getElementById('password').value;
+      document.getElementById('message').textContent = user.startsWith('user') && pass.startsWith('password') ? 'Login successful' : 'Invalid credentials';
+    });
+  </script>
+</body></html>

@@ -1,0 +1,17 @@
+C:\Users\hoang\OneDrive\Desktop\SELab9_Complete_Source\SELab9_Complete\LoginAutomation\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\hoang\OneDrive\Desktop\SELab9_Complete_Source\SELab9_Complete\LoginAutomation\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\hoang\OneDrive\Desktop\SELab9_Complete_Source\SELab9_Complete\LoginAutomation\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\hoang\OneDrive\Desktop\SELab9_Complete_Source\SELab9_Complete\LoginAutomation\bin\Debug\net8.0\LoginAutomation.deps.json
+C:\Users\hoang\OneDrive\Desktop\SELab9_Complete_Source\SELab9_Complete\LoginAutomation\bin\Debug\net8.0\LoginAutomation.dll
+C:\Users\hoang\OneDrive\Desktop\SELab9_Complete_Source\SELab9_Complete\LoginAutomation\bin\Debug\net8.0\LoginAutomation.pdb
+C:\Users\hoang\OneDrive\Desktop\SELab9_Complete_Source\SELab9_Complete\LoginAutomation\obj\Debug\net8.0\LoginAutomation.csproj.AssemblyReference.cache
+C:\Users\hoang\OneDrive\Desktop\SELab9_Complete_Source\SELab9_Complete\LoginAutomation\obj\Debug\net8.0\LoginAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\OneDrive\Desktop\SELab9_Complete_Source\SELab9_Complete\LoginAutomation\obj\Debug\net8.0\LoginAutomation.AssemblyInfoInputs.cache
+C:\Users\hoang\OneDrive\Desktop\SELab9_Complete_Source\SELab9_Complete\LoginAutomation\obj\Debug\net8.0\LoginAutomation.AssemblyInfo.cs
+C:\Users\hoang\OneDrive\Desktop\SELab9_Complete_Source\SELab9_Complete\LoginAutomation\obj\Debug\net8.0\LoginAutomation.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Desktop\SELab9_Complete_Source\SELab9_Complete\LoginAutomation\obj\Debug\net8.0\LoginAutomation.dll
+C:\Users\hoang\OneDrive\Desktop\SELab9_Complete_Source\SELab9_Complete\LoginAutomation\obj\Debug\net8.0\refint\LoginAutomation.dll
+C:\Users\hoang\OneDrive\Desktop\SELab9_Complete_Source\SELab9_Complete\LoginAutomation\obj\Debug\net8.0\LoginAutomation.pdb
+C:\Users\hoang\OneDrive\Desktop\SELab9_Complete_Source\SELab9_Complete\LoginAutomation\obj\Debug\net8.0\ref\LoginAutomation.dll
+C:\Users\hoang\OneDrive\Desktop\SELab9_Complete_Source\SELab9_Complete\LoginAutomation\obj\Debug\net8.0\LoginAut.4C78C654.Up2Date
+C:\Users\hoang\OneDrive\Desktop\SELab9_Complete_Source\SELab9_Complete\LoginAutomation\bin\Debug\net8.0\login.html
